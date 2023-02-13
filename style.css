@@ -1,0 +1,52 @@
+body {
+	background: #A6BB8D;
+}
+
+#banner {
+	width: 100%;
+}
+
+.principal {
+	padding: 30px;
+}
+
+.principaltitle {
+	padding-left: 20px;
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px;
+}
+
+em strong {
+	color: #EAE7B1;
+}
+
+.itens {
+	font-style: italic;
+}
+
+.differential {
+	background: #61876E;
+	padding: 20px;
+}
+
+.centertitle {
+	text-align: center;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+	font-size: 20px;
+}
+
+.imgdifferential {
+	width: 25%;
+}
