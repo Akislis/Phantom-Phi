@@ -1,0 +1,24 @@
+body {
+	background: #A6BB8D;
+}
+
+header {
+	background: #3C6255;
+}
+
+nav li {
+	display: inline;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+#logo {
+	width: 10%;
+	border-radius: 100px;
+}
